@@ -1,0 +1,12 @@
+check,value
+rows,90189
+distinct userid,90189
+duplicate userid,0
+missing values,0
+negative game rounds,0
+players with 0 rounds,3994
+max game rounds (14 days),49854
+rounds 99.9th percentile,1073.6240000000107
+group split gate_30,44700
+group split gate_40,45489
+SRM chi-square p-value,0.008607987810836255
